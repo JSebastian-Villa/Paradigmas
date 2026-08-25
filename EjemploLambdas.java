@@ -34,4 +34,4 @@ public class EjemploLambdas {
     BiPredicate<Integer, Integer> mayorQue = (a, b) -> a > b;
     System.out.println("5 es mayor que 3: " + mayorQue.test(5, 3));
     
-}
+}}
