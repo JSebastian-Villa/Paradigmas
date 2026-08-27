@@ -174,4 +174,4 @@ public class Tienda {
         System.out.println("\n=== Nombres de productos ===");
         nombres.forEach(System.out::println);
     }
-}
+}  
